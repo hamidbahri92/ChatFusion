@@ -1,0 +1,46 @@
+{
+  "name": "chatfusion",
+  "version": "1.0.0",
+  "description": "ChatFusion is an advanced chatbot project leveraging state-of-the-art AI models to assist users with various tasks and provide an engaging conversational experience.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/ChatFusion.git"
+  },
+  "keywords": [
+    "chatbot",
+    "AI",
+    "FastAPI",
+    "React",
+    "Next.js",
+    "Chakra UI",
+    "GPT-4o"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/ChatFusion/issues"
+  },
+  "homepage": "https://github.com/your-username/ChatFusion#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.5",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0",
+    "framer-motion": "^4.1.17",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
